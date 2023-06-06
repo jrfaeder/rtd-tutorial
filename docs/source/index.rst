@@ -13,7 +13,7 @@ Lumache documentation is hosted on Read the Docs.
 
 .. note::
 
-   This project is under active development.
+   This project is still under active development.
 
 Contents
 --------
